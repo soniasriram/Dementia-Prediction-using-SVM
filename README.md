@@ -1,8 +1,8 @@
-# Dementia-Prediction-using-SVM
+
 # Mini-Project: Dementia prediction using SVM
 
 # Problem Statement
-**Prediction of Dementia using an SVM model on brain MRI features
+**Prediction of Dementia using an SVM model on brain MRI features**
 
 # Learning Objectives
 At the end of the mini-project, you will be able to :
