@@ -1,1 +1,8 @@
-
+FOR SVM
+Best accuracy on cross validation set is: 0.8121915820029028
+Best parameter for c is:  0.001
+Best parameter for gamma is:  10
+Best parameter for kernel is:  poly
+Test accuracy with the best parameters is 0.7678571428571429
+Test recall with the best parameters is 0.7735849056603774
+Test recall with the best parameter is 0.7681483850335785
